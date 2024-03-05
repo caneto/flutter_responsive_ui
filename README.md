@@ -1,2 +1,4 @@
-# flutter_responsive_ui
-Projeto Flutter demonstrando  responsividade
+# responsive_ui_web_app
+
+![Demonstração](responsiveapp.gif) 
+
